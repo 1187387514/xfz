@@ -1,0 +1,5 @@
+#前端源代码和对应的管理程序，不需要上传生产环境
+node_modules
+src
+gulpfile.js
+package.json

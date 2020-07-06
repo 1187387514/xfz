@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3341cb27-45f4-4e10-a3a4-f15e04d30934" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="useSoftWraps" value="true" />
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="xfz" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Urooseg5S20qmq2kDtvSatnCrF" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/front/templates/course" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Console" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\python\django\xfz\apps" />
+      <recent name="D:\python\django\xfz\front\src\css\course" />
+      <recent name="D:\python\django\xfz\front\src\css\news" />
+      <recent name="D:\python\django\xfz\front\src\css\common" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python\django\xfz\front\templates\course" />
+      <recent name="D:\python\django\xfz\front\dist" />
+      <recent name="D:\python\django\xfz\apps" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="xfz" type="Python.DjangoServer" factoryName="Django server">
+      <module name="xfz" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="xfz.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3341cb27-45f4-4e10-a3a4-f15e04d30934" name="Default Changelist" comment="" />
+      <created>1576124252622</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576124252622</updated>
+      <workItem from="1576124253799" duration="50390000" />
+      <workItem from="1576580100658" duration="2828000" />
+      <workItem from="1576591244901" duration="14995000" />
+      <workItem from="1576739820189" duration="3717000" />
+      <workItem from="1576811932572" duration="3369000" />
+      <workItem from="1576895566492" duration="603000" />
+      <workItem from="1577008529198" duration="21250000" />
+      <workItem from="1577167856969" duration="12840000" />
+      <workItem from="1577449905199" duration="4844000" />
+      <workItem from="1577627763431" duration="14943000" />
+      <workItem from="1577769895207" duration="7915000" />
+      <workItem from="1578317865020" duration="9384000" />
+      <workItem from="1578573327689" duration="4564000" />
+      <workItem from="1578713860016" duration="6095000" />
+      <workItem from="1578747392139" duration="1939000" />
+      <workItem from="1579139296789" duration="12361000" />
+      <workItem from="1579266493174" duration="6132000" />
+      <workItem from="1579319868998" duration="7547000" />
+      <workItem from="1579354289861" duration="1646000" />
+      <workItem from="1579689113449" duration="37158000" />
+      <workItem from="1580799641397" duration="21318000" />
+      <workItem from="1582010873914" duration="923000" />
+      <workItem from="1584972748300" duration="18384000" />
+      <workItem from="1585219260293" duration="17890000" />
+      <workItem from="1585406414674" duration="28652000" />
+      <workItem from="1585654015066" duration="277000" />
+      <workItem from="1585654380700" duration="2329000" />
+      <workItem from="1585657872652" duration="48150000" />
+      <workItem from="1586056219264" duration="10337000" />
+      <workItem from="1586516858521" duration="3472000" />
+      <workItem from="1586603407183" duration="2719000" />
+      <workItem from="1586613912905" duration="12494000" />
+      <workItem from="1586678901059" duration="890000" />
+      <workItem from="1592294590226" duration="8946000" />
+      <workItem from="1592314294187" duration="3040000" />
+      <workItem from="1592363951217" duration="2099000" />
+      <workItem from="1592367357944" duration="2862000" />
+      <workItem from="1592463681087" duration="3592000" />
+      <workItem from="1592491213584" duration="2851000" />
+      <workItem from="1592538923372" duration="1366000" />
+      <workItem from="1592620004969" duration="10000" />
+      <workItem from="1593571378467" duration="611000" />
+      <workItem from="1593611233919" duration="6616000" />
+      <workItem from="1593658448433" duration="3374000" />
+      <workItem from="1593661859900" duration="2729000" />
+      <workItem from="1593681018551" duration="233000" />
+      <workItem from="1593682121682" duration="3556000" />
+      <workItem from="1593695614440" duration="4189000" />
+      <workItem from="1593744296523" duration="12518000" />
+      <workItem from="1593783480865" duration="5649000" />
+      <workItem from="1593860345168" duration="11223000" />
+      <workItem from="1593915938662" duration="3134000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="django-line">
+          <url>file://$PROJECT_DIR$/front/templates/cms/base.html</url>
+          <line>123</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="django-line">
+          <url>file://$PROJECT_DIR$/front/templates/search/search.html</url>
+          <line>27</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="django-line">
+          <url>file://$PROJECT_DIR$/front/templates/cms/add_staff.html</url>
+          <line>26</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

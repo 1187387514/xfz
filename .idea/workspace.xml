@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3341cb27-45f4-4e10-a3a4-f15e04d30934" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/news/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/news/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xfz/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/xfz/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,15 +75,15 @@
         <env name="PYTHONUNBUFFERED" value="1" />
         <env name="DJANGO_SETTINGS_MODULE" value="xfz.settings" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\ni\Envs\django\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="launchJavascriptDebuger" value="false" />
       <option name="port" value="8000" />
-      <option name="host" value="" />
-      <option name="additionalOptions" value="" />
+      <option name="host" value="0.0.0.0" />
+      <option name="additionalOptions" value="--insecure" />
       <option name="browserUrl" value="" />
       <option name="runTestServer" value="false" />
       <option name="runNoReload" value="false" />
@@ -154,7 +155,8 @@
       <workItem from="1593860345168" duration="11223000" />
       <workItem from="1593915938662" duration="3134000" />
       <workItem from="1594112122384" duration="3798000" />
-      <workItem from="1594120133165" duration="2104000" />
+      <workItem from="1594120133165" duration="3608000" />
+      <workItem from="1594131369602" duration="5180000" />
     </task>
     <task id="LOCAL-00001" summary="add pymysql.version_info = (1, 4, 6, 'final', 0)">
       <created>1594113010897</created>

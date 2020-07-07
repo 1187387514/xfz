@@ -8,10 +8,12 @@ from django.http import Http404
 from .forms import PublicCommentForm
 from apps.xfzauth.decorators import xfz_login_required
 from django.db.models import Q
+from django.middleware.csrf import get_token
 # Create your views here.
 
 def index(request):
     count = settings.ONE_PAGE_NEWS_COUNT
+    csrf_token = get_token(request)
     context = {
         'newses' : News.objects.select_related('category','author').all()[0:count],
         'categories' : NewsCategory.objects.all(),

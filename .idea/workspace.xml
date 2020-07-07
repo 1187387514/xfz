@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3341cb27-45f4-4e10-a3a4-f15e04d30934" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xfz/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/xfz/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,16 +41,16 @@
     <property name="settings.editor.selected.configurable" value="Console" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python\django\xfz\front\templates\course" />
+      <recent name="D:\python\django\xfz\front\dist" />
+      <recent name="D:\python\django\xfz\apps" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\python\django\xfz\apps" />
       <recent name="D:\python\django\xfz\front\src\css\course" />
       <recent name="D:\python\django\xfz\front\src\css\news" />
       <recent name="D:\python\django\xfz\front\src\css\common" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\python\django\xfz\front\templates\course" />
-      <recent name="D:\python\django\xfz\front\dist" />
-      <recent name="D:\python\django\xfz\apps" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -153,6 +154,7 @@
       <workItem from="1593860345168" duration="11223000" />
       <workItem from="1593915938662" duration="3134000" />
       <workItem from="1594112122384" duration="3798000" />
+      <workItem from="1594120133165" duration="2104000" />
     </task>
     <task id="LOCAL-00001" summary="add pymysql.version_info = (1, 4, 6, 'final', 0)">
       <created>1594113010897</created>
@@ -172,7 +174,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

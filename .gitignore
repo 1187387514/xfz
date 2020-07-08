@@ -5,3 +5,4 @@ gulpfile.js
 package.json
 *.pyc
 static
+xfz_uwsgi.ini

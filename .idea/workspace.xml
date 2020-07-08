@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3341cb27-45f4-4e10-a3a4-f15e04d30934" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/ueditor/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/ueditor/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -155,7 +156,8 @@
       <workItem from="1594112122384" duration="3798000" />
       <workItem from="1594120133165" duration="3608000" />
       <workItem from="1594131369602" duration="5798000" />
-      <workItem from="1594203283898" duration="1652000" />
+      <workItem from="1594203283898" duration="2264000" />
+      <workItem from="1594216002352" duration="1111000" />
     </task>
     <task id="LOCAL-00001" summary="add pymysql.version_info = (1, 4, 6, 'final', 0)">
       <created>1594113010897</created>

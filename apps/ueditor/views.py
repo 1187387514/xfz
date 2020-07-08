@@ -20,7 +20,8 @@ from django.views.decorators.http import require_http_methods
 # 更改工作目录。这么做的目的是七牛qiniu的sdk
 # 在设置缓存路径的时候默认会设置到C:/Windows/System32下面
 # 会造成没有权限创建。
-os.chdir(os.path.dirname(__file__))
+#window系统才需要这一句，在linux不需要，且使用了这句用uwsgi的时候会因为执行顺序的问题导致程序后面不能正确自定义的过滤器
+#os.chdir(os.path.dirname(__file__))
 try:
     import qiniu
 except:
